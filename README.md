@@ -126,8 +126,8 @@ Open index.html in your browser
 
 ---
 <p align="center">
-  Developed with ❤️ by David Macêdo
-<<<<<<< HEAD
+  Developed  by David Macêdo
+
 </p>
 
 # david-macedo-dev
