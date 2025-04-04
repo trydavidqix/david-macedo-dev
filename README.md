@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 Portfolio - David Macêdo
 
 <p align="center">
@@ -131,4 +131,4 @@ Open index.html in your browser
 =======
 # david-macedo-dev
 🚀 Front-end Developer Portfolio showcasing responsive web projects built with HTML, CSS, and JavaScript. Features modern UI/UX, interactive components, and dark/light theme. Live projects include: Fitness Center, E-commerce, and Business websites.
->>>>>>> 70afc8edca0ccabadb7624408204623615b3b8a3
+
