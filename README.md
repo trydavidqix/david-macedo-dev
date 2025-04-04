@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # 🚀 Portfolio - David Macêdo
 
 <p align="center">
-  <img src="assets/img/preview.png" alt="Portfolio Preview" width="100%">
+  <img src="assets/img/image.png" alt="Portfolio Preview" width="100%">
 </p>
 
 ## 📌 Table of Contents
@@ -127,8 +126,4 @@ Open index.html in your browser
 ---
 <p align="center">
   Developed with ❤️ by David Macêdo
-</p> 
-=======
-# david-macedo-dev
-🚀 Front-end Developer Portfolio showcasing responsive web projects built with HTML, CSS, and JavaScript. Features modern UI/UX, interactive components, and dark/light theme. Live projects include: Fitness Center, E-commerce, and Business websites.
->>>>>>> 70afc8edca0ccabadb7624408204623615b3b8a3
+</p>
